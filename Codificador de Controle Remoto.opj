@@ -1,0 +1,74 @@
+(ExpressProject "Co/decodificador de Controle Remoto"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\atod.olb"
+        (Type "Schematic Library"))
+      (File "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\mechan~1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\decodificador de controle remoto.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR DE CONTROLE REMOTO.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File
+       "C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR DE CONTROLE REMOTO.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "1")
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\decodificador de controle remoto.drc"
+      (Type "Report"))
+    (File ".\decodificador de controle remoto.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("SW "
+      (FullPartName "SW .Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (AD1170
+      (FullPartName "AD1170.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\ATOD.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 249"))
+      (Tab 0))))

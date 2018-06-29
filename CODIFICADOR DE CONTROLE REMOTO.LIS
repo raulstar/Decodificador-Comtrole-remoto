@@ -1,0 +1,33 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\CODIFICADOR DE CONTROLE REMOTO.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\CODIFICADOR DE CONTROLE REMOTO.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint CON2
+Adding footprint SW
+Adding package CON2
+Adding package RESISTOR_VAR
+Adding package SW_
+Adding package RESISTOR
+Adding component J2
+Adding component R1
+Adding component R2
+Adding component R3
+Adding component R4
+Adding component SW1
+Adding component SW2
+Adding component SW3
+Adding component SW4
+Adding component R5
+Adding component R6
+Adding component SW5
+Adding net N00061
+Adding net N00220
+Adding net N00223
+Adding net N00226
+Adding net N00259
+Adding net N00272
+Adding net N00210
+Adding net N00275
+Deleting net DEFAULT
+*EOF*
+No errors found

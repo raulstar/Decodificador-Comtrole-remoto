@@ -1,0 +1,33 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR DE CONTROLE REMOTO.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR CONTROLE REMOTO.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint CON2
+Found footprint AX/.375X.100/.031 from PRT file for original FP RESISTOR, comp R2
+Adding package LM3914
+Adding package CON2
+Adding package R
+Adding package CON10
+Adding component U1
+Adding component J1
+Adding component J2
+Adding component R2
+Adding component R1
+Adding component J3
+Adding net N00272
+Adding net N00263
+Adding net N00284
+Adding net N00045
+Adding net N00188
+Adding net N00269
+Adding net N00287
+Adding net N00266
+Adding net N00275
+Adding net N00278
+Adding net N00281
+Adding net N00260
+Adding net V+
+Adding net GND
+Deleting net DEFAULT
+*EOF*
+No errors found

@@ -1,0 +1,81 @@
+(ExpressProject "Decodificador Controle Remoto"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\decodificador controle remoto.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR CONTROLE REMOTO.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File
+       "C:\MEUS DOCUMENTOS\PROJETOS\DECODIFICADOR COMTROLE REMOTO\DECODIFICADOR CONTROLE REMOTO.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\decodificador controle remoto.drc"
+      (Type "Report"))
+    (File ".\decodificador controle remoto.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (CON10
+      (FullPartName "CON10.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\MEUS DOCUMENTOS\PROJETOS\TEMPLATE\BLIBIO~1.OLB")
+      (DeviceIndex "0"))
+    (LM3914
+      (FullPartName "LM3914.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\MISC.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\PROGRAM FILES\ORCAD\CAPTURE\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "F:\Meus documentos\Projetos\Comtrole Remoto\Decodificador Comtrole remoto\decodificador controle remoto.dsn")
+      (Path "Design Resources"
+         "F:\Meus documentos\Projetos\Comtrole Remoto\Decodificador Comtrole remoto\decodificador controle remoto.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "F:\Meus documentos\Projetos\Comtrole Remoto\Decodificador Comtrole remoto\decodificador controle remoto.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 377 577 85 338"))
+      (Tab 0))))
